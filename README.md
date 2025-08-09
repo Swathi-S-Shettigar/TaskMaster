@@ -63,4 +63,15 @@ No installation required! Simply:
 2. Open index.html in your browser
 
 ## Screenshots
+<img width="1919" height="1020" alt="Screenshot 2025-08-09 122451" src="https://github.com/user-attachments/assets/1bffa61d-628c-49b6-8048-c1a9c258a40a" />
+<img width="1919" height="1021" alt="Screenshot 2025-08-09 122749" src="https://github.com/user-attachments/assets/4e07d1df-cd1a-427d-b0b0-c6ce084a023f" />
+<img width="1919" height="1018" alt="Screenshot 2025-08-09 122800" src="https://github.com/user-attachments/assets/c4919112-bb98-4d97-9820-c4e3f502499a" />
 
+
+<img width="1919" height="1012" alt="Screenshot 2025-08-09 123126" src="https://github.com/user-attachments/assets/c1fc9213-5d9c-4847-bd20-773b5dcba70b" />
+<img width="1919" height="1013" alt="Screenshot 2025-08-09 122937" src="https://github.com/user-attachments/assets/96f3ab06-2923-4cb9-ad26-72823363fc22" />
+<img width="1919" height="1019" alt="Screenshot 2025-08-09 123115" src="https://github.com/user-attachments/assets/a8b95551-1e7b-489f-84bf-565aa8e47985" />
+
+<img width="1919" height="1012" alt="Screenshot 2025-08-09 123126" src="https://github.com/user-attachments/assets/47b116af-792b-4c18-b3e9-8431973a3372" />
+
+<img width="1919" height="1015" alt="Screenshot 2025-08-09 123223" src="https://github.com/user-attachments/assets/7e5534fa-bffa-4b5d-91a1-32ae807f8c64" />
