@@ -61,3 +61,6 @@ No installation required! Simply:
    ```bash
    git clone https://github.com/Swathi-S-Shettigar/TaskMaster.git
 2. Open index.html in your browser
+
+## Screenshots
+
