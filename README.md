@@ -75,3 +75,6 @@ No installation required! Simply:
 <img width="1919" height="1012" alt="Screenshot 2025-08-09 123126" src="https://github.com/user-attachments/assets/47b116af-792b-4c18-b3e9-8431973a3372" />
 
 <img width="1919" height="1015" alt="Screenshot 2025-08-09 123223" src="https://github.com/user-attachments/assets/7e5534fa-bffa-4b5d-91a1-32ae807f8c64" />
+
+## Demo
+
