@@ -76,5 +76,7 @@ No installation required! Simply:
 
 <img width="1919" height="1015" alt="Screenshot 2025-08-09 123223" src="https://github.com/user-attachments/assets/7e5534fa-bffa-4b5d-91a1-32ae807f8c64" />
 
-## Demo
+## Live Demo
+https://swathi-s-shettigar.github.io/TaskMaster/
+
 
