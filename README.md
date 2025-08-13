@@ -1,6 +1,6 @@
 # TaskMaster - ToDo List Application
 
-TaskMaster is a responsive ToDo list application with tagging, due dates, and dark mode support. Built with HTML5, CSS3, and JavaScript, it persists tasks using localStorage.
+TaskMaster is a responsive ToDo list application with tagging, due dates, and dark mode support. Built with HTML5, CSS3,Bootstrap and JavaScript, it persists tasks using localStorage.
 
 ## Features
 
